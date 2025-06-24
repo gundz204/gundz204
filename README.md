@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">
+<p align="start">
   <img src="https://komarev.com/ghpvc/?username=gundz204&label=Profile%20views&color=0e75b6&style=flat" alt="gundz204" />
 </p>
 
