@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Web Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;ESP32+%7C+Node.js+%7C+React+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DD1A1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
