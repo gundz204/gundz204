@@ -43,12 +43,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gundz204&show_icons=true&theme=radical" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gundz204&layout=compact&theme=radical" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gundz204&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gundz204&show_icons=true&theme=radical" width="30%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gundz204&layout=compact&theme=radical" width="30%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gundz204&theme=radical" width="30%" height="200" />
 </p>
-
-
 
 ---
 
