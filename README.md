@@ -7,7 +7,7 @@
 
 ---
 
-<p align="start">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gundz204&label=Profile%20views&color=0e75b6&style=flat" alt="gundz204" />
 </p>
 
@@ -51,10 +51,17 @@
 ### 🐾 Fun Section
 
 <p align="center">
+  <!-- Octocat wave -->
   <img src="https://raw.githubusercontent.com/sabavat/Octocat-GIFs/main/octocat-wave.gif" width="150" alt="Octocat waving"/>
   <br><br>
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" alt="Pac-Man gif"/>
+
+  <!-- Pac-Man -->
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150" alt="Pac-Man gif"/>
+
+  <!-- Snake Game -->
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="150" alt="Snake Game gif"/>
 </p>
+
 
 ---
 
